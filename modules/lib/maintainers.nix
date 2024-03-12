@@ -89,6 +89,12 @@
     github = "JustinLovinger";
     githubId = 7183441;
   };
+  justinrubek = {
+    email = "25621857+justinrubek@users.noreply.github.com";
+    github = "justinrubek";
+    githubId = 7183441;
+    name = "Justin Rubek";
+  };
   owm111 = {
     email = "7798336+owm111@users.noreply.github.com";
     name = "Owen McGrath";
