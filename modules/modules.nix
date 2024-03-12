@@ -98,6 +98,7 @@ let
     ./programs/git-cliff.nix
     ./programs/git-credential-oauth.nix
     ./programs/git.nix
+    ./programs/gitu.nix
     ./programs/gitui.nix
     ./programs/gnome-terminal.nix
     ./programs/go.nix
